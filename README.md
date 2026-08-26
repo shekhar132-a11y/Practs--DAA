@@ -67,3 +67,14 @@ CONCULSION:
 
 Dynamic Programming makes the Coin Change Problem easier and faster to solve. 
 The program gives the minimum number of coins or returns -1 if the amount cannot be made.
+
+##PRACT_5
+
+##Summary
+The Knapsack Problem was implemented using Dynamic Programming to find the maximum value within a given weight capacity. DP stores solutions to smaller subproblems and uses them to build the final optimal solution.
+
+Conclusion
+Dynamic Programming provides an efficient and optimal solution to the Knapsack Problem, reducing repeated calculations and improving performance compared with the recursive approach.
+
+
+

@@ -70,20 +70,32 @@ The program gives the minimum number of coins or returns -1 if the amount cannot
 
 # Pract5-DAA
 
-## SUMAMRY OF PRACT-5:
-The Knapsack Problem was implemented using Dynamic Programming to find the maximum value within a given weight capacity. DP stores solutions to smaller subproblems and uses them to build the final optimal solution.
+__SUMAMRY
+      The Knapsack Problem was implemented using Dynamic Programming to find the maximum value within a given weight capacity. DP stores solutions to smaller subproblems         and uses them to build the final optimal solution.
 
 Conclusion:
 ##Practical_6
-#Summary
+__Summary
 
-Chain Matrix Multiplication is used to find the best order to multiply a group of matrices. Dynamic Programming stores the results of smaller problems and uses them to solve the bigger problem. This reduces repeated calculations and saves time.
+       Chain Matrix Multiplication is used to find the best order to multiply a group of matrices. Dynamic Programming stores the results of smaller problems and uses them        solve the bigger problem. This reduces repeated calculations and saves time.
 
 __Conclusion
 
-Dynamic Programming helps find the minimum number of multiplications needed to multiply a chain of matrices. It gives an efficient and optimal solution.
+       Dynamic Programming helps find the minimum number of multiplications needed to multiply a chain of matrices. It gives an efficient and optimal solution.
 
-Dynamic Programming provides an efficient and optimal solution to the Knapsack Problem, reducing repeated calculations and improving performance compared with the recursive approach.
+       Dynamic Programming provides an efficient and optimal solution to the Knapsack Problem, reducing repeated calculations and improving performance compared with the          recursive approach.
 
+##practical_8
+
+__Summary
+
+       BFS and DFS are methods used to visit all the nodes of a graph.
+
+       BFS visits nodes level by level and uses a queue.
+       DFS visits nodes deeply one by one and uses a stack or recursion.
+
+__Conclusion
+
+       BFS and DFS are useful graph traversal techniques. BFS is useful for level-wise searching, while DFS is useful for deep searching and backtracking.
 
 

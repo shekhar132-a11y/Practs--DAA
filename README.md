@@ -74,6 +74,14 @@ The program gives the minimum number of coins or returns -1 if the amount cannot
 The Knapsack Problem was implemented using Dynamic Programming to find the maximum value within a given weight capacity. DP stores solutions to smaller subproblems and uses them to build the final optimal solution.
 
 Conclusion:
+##Practical_6
+#Summary
+
+Chain Matrix Multiplication is used to find the best order to multiply a group of matrices. Dynamic Programming stores the results of smaller problems and uses them to solve the bigger problem. This reduces repeated calculations and saves time.
+
+__Conclusion
+
+Dynamic Programming helps find the minimum number of multiplications needed to multiply a chain of matrices. It gives an efficient and optimal solution.
 
 Dynamic Programming provides an efficient and optimal solution to the Knapsack Problem, reducing repeated calculations and improving performance compared with the recursive approach.
 

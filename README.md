@@ -100,4 +100,14 @@ __Conclusion
 
        BFS and DFS are useful graph traversal techniques. BFS is useful for level-wise searching, while DFS is useful for deep searching and backtracking.
 
+##practical_9
+__Summary
+
+       Prim’s Algorithm is a greedy algorithm used to find the Minimum Spanning Tree (MST) of a connected, weighted, undirected graph. It starts from any vertex and           repeatedly selects the minimum-weight edge that connects a vertex already in the MST to a vertex outside it. This process continues until all vertices are              included. Prim’s Algorithm is commonly implemented using a priority queue (min-heap) to improve efficiency.
+
+       
+__Conclusion
+
+       Prim’s Algorithm provides an efficient way to construct a Minimum Spanning Tree with the minimum possible total edge weight while connecting all vertices               without forming cycles. It is useful in applications such as network design, road connections, computer networks, and communication systems. With a min-heap            implementation, its time complexity is O(E log V), making it suitable for large graphs.
+
 
